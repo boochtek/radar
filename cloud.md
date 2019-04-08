@@ -14,6 +14,11 @@ Cloud
         * Much faster than RabbitMQ
     * Kafka
     * RabbitMQ
+* API Gateway
+    * [Kong](https://konghq.com/)
+        * Sub-millisecond latency
+        * 24k transactions/second (on a single node)
+        * Built on Nginx, OpenResty, and Lua
 * Log aggregation
     * Papertrail - aggregation, searching, alerting (inexpensive)
     * Splunk - aggregation, searching, alerting (expensive)
