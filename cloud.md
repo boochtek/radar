@@ -44,3 +44,5 @@ Cloud
     * Kubernetes
     * [Spinnaker](https://www.spinnaker.io) - continuous deployment
     * [Istio](https://istio.io) - service mesh to coordinate inter-service communication
+* Dockerfile linting
+    * [Hadolint](https://github.com/hadolint/hadolint)
