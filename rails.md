@@ -15,9 +15,12 @@ Rails Radar
 * [Rolify](https://github.com/RolifyCommunity/rolify) to define and manage roles
 * Database cleaner gem for testing
 * Shoulda matchers?
-* Rails_best_practices gem
+* [Rails Best Practices](http://rails-bestpractices.com/)
 * RubyCritic
-* Brakeman
+* [Brakeman](http://brakemanscanner.org/)
+    - static analysis vulnerability scanner
+    - [Railroader](https://railroader.org/about/) fork
+        - because Brakeman is apparently no longer OSS
 * [Mina](https://github.com/mina-deploy/mina) for deployment
     * Faster than Capistrano, because it uses a single SSH connection, instead of per command
     * Does not have rollback yet
